@@ -1,11 +1,11 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Karthik ch"
+email: karthhikchapalamadugu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
-url: "/" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://karthikchapalamadugu.github.io/" 
+twitter_username: Karthik Chapalamadugu
+github_username:  karthikchapalamadugu
 
 sass:
   sass_dir: _sass
